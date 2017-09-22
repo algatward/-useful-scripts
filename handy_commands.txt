@@ -1,0 +1,8 @@
+#restart the server
+sudo systemctl restart apache2
+
+#update the server 
+sudo apt-get update
+
+#install packages
+sudo apt-get install PACKAGE_NAME
